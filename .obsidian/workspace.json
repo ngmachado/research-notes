@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "IDA Weighted Index by ERC20.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b10aedd6e2eb8484",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ERC20x Implementation Breakdown.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -65,8 +78,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "ERC20x Implementation Breakdown.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "ERC20x Implementation Breakdown.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "ERC20x Implementation Breakdown.md"
               }
             }
           }
@@ -147,9 +159,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "802f4b8ec74d9097",
+  "active": "c1f39152a37263e5",
   "lastOpenFiles": [
     "IDA Weighted Index by ERC20.md",
+    "ERC20x Implementation Breakdown.md",
     "README.md"
   ]
 }
